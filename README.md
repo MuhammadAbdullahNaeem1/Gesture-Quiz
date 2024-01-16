@@ -1,4 +1,4 @@
-# GestureRiddle
+# Gesture Quiz
 Hand Gesture Math Game with Timer
 
 
