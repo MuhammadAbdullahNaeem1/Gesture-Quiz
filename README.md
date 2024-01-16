@@ -29,9 +29,8 @@ Ensure that the script is run on a machine with a webcam for hand gesture detect
 Feel free to customize and enhance the script for your needs or contribute to its development!
 
 #Samples:
+![img5](https://github.com/MuhammadAbdullahNaeem1/Gesture-Quiz/assets/105659099/5caeeeec-6844-43b0-b304-bf4095ecc70e)
 
-![image](https://github.com/MuhammadAbdullahNaeem1/Gesture-Quiz/assets/105659099/fad364f9-fe8b-4568-ab3d-2d71f4d1171d)
-
-![image](https://github.com/MuhammadAbdullahNaeem1/Gesture-Quiz/assets/105659099/197a8927-1991-4e31-8090-3144d1112ec8)
+![img6](https://github.com/MuhammadAbdullahNaeem1/Gesture-Quiz/assets/105659099/eb3443cd-1ef2-4a9f-b7b0-d389a4889b18)
 
 ![img3](https://github.com/MuhammadAbdullahNaeem1/Gesture-Quiz/assets/105659099/74032706-fbee-4182-b1c2-3bdae2e45cc2)
