@@ -27,3 +27,11 @@ The game challenges your quick thinking and precise hand movements. Can you solv
 
 Ensure that the script is run on a machine with a webcam for hand gesture detection.
 Feel free to customize and enhance the script for your needs or contribute to its development!
+
+#Samples:
+
+![image](https://github.com/MuhammadAbdullahNaeem1/Gesture-Quiz/assets/105659099/fad364f9-fe8b-4568-ab3d-2d71f4d1171d)
+
+![image](https://github.com/MuhammadAbdullahNaeem1/Gesture-Quiz/assets/105659099/197a8927-1991-4e31-8090-3144d1112ec8)
+
+![img3](https://github.com/MuhammadAbdullahNaeem1/Gesture-Quiz/assets/105659099/74032706-fbee-4182-b1c2-3bdae2e45cc2)
