@@ -1,4 +1,4 @@
-# 🌟 GestureQuiz
+# 🌟 Gesture Quiz
 Hand Gesture Math Game with Timer ⏰
 
 This Python script unleashes the power of OpenCV and MediaPipe, crafting an interactive math game that combines hand gesture recognition with arithmetic challenges. Embark on a journey where a series of math equations are presented, and you must answer by showcasing the correct number of fingers through hand gestures. The game adds an extra layer of excitement with a countdown timer for each question.
